@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Note</h1>
+  <h1>Note app</h1>
 </div>
 
 <h2>Tampilan Potrait</h2>
