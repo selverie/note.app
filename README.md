@@ -1,6 +1,14 @@
-<div align="center">
-  <h1>Note app</h1>
-</div>
+# `Note app`
+## Getting Started!
+
+install dependencies:
+```bash
+$ npm install
+```
+run development server :
+```bash
+$ npm start
+```
 
 <h2>Tampilan Potrait</h2>
 <div align="center">
