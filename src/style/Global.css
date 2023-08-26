@@ -1,0 +1,200 @@
+/* body test 
+body {
+    margin: 0;
+    width: auto;
+}
+
+
+/* Register (check box) */
+.form-check-input[type="checkbox"]:checked {
+    background-color: #48C9B0;
+    border-color: #48C9B0;
+}
+
+/* Login */
+.pw {
+    margin-bottom: 50px;
+}
+
+/* HomePage */
+.text-blank {
+    padding-top: 350px;
+}
+
+.layout-home {
+    padding-bottom: 19.5%;
+}
+
+/* CreateNote */
+.layout-create {
+    padding-bottom: 4.9%;
+}
+
+.shadow {
+    margin: 60px;
+}
+
+.button_add_notes {
+    width: 90%;
+    margin-top: -90px;
+    margin-left: 20px;
+    padding-right: auto;
+}
+
+.foto-profile {
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+
+.sidebar {
+    padding: 20px;
+}
+
+.side-note {
+    margin-right: 20px;
+}
+
+.search-input {
+    width: 100%;
+}
+
+.button_add_notes .btn-block {
+    width: 160px;
+}
+
+.search-input {
+    width: 160px;
+}
+
+.notes {
+    margin-left: 5px;
+    margin-right: 25px;
+}
+
+.card {
+    margin: 0;
+}
+
+.notes_tittle {
+    font-size: 3em;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    border: none;
+    outline: none;
+    width: 100%;
+}
+
+.ql-editor {
+    min-height: 60vh;
+}
+
+.icon {
+    margin-top: 25px;
+    margin-right: 10px;
+}
+
+.btn {
+    margin: 0;
+    color: white;
+    background-color: #48C9B0;
+}
+
+.btn-update {
+    margin-right: 10px;
+}
+
+.save {
+    height: 21px;
+    width: auto;
+    margin-top: 70px;
+    margin-left: 50px;
+    margin-right: 10px;
+}
+
+.delete {
+    height: 19px;
+    width: auto;
+    margin-right: 40px;
+    margin-bottom: 1.5px;
+}
+
+.button-home {
+    margin-right: 70px;
+}
+
+.success-message {
+    border: 1px solid #28a745;
+    background-color: #d4edda;
+    color: #155724;
+    padding: 8px;
+    border-radius: 4px;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 20px;
+}
+
+.close-btn {
+    border: none;
+    background: none;
+    color: #155724;
+    cursor: pointer;
+}
+
+
+
+/* light theme */
+.light-theme {
+    position: relative;
+    background-color: #ffffff;
+    color: #000000;
+}
+
+/* dark theme */
+.dark-theme {
+    position: relative;
+    background-color: #272930;
+    color: #ffffff;
+}
+
+/* enter a title */
+.dark-theme input::placeholder {
+    color: white;
+}
+
+/* button darklight login - register */
+.theme-toggle-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+/* button darklight home - create */
+.darklight {
+    margin-right: 70px;
+}
+
+
+/* login - register */
+.page {
+    width: 100vw;
+    height: 100vh;
+    overflow: auto;
+    transition: background-color 0.3s ease;
+}
+
+/*
+.sidebar {
+    overflow-y: auto;
+    max-height: calc(100vh - 70px); 
+}
+
+*/
+
+
+
+
