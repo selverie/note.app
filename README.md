@@ -1,7 +1,7 @@
 # `Note app`
 ## Getting Started!
 
-install dependencies:
+install dependencies :
 ```bash
 $ npm install
 ```
