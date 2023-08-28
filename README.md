@@ -10,7 +10,6 @@ run development server :
 $ npm start
 ```
 
-<h2>Tampilan Potrait</h2>
 <div align="center">
   <table>
     <tr>
